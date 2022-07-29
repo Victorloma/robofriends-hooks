@@ -1,6 +1,6 @@
 {
-  "name": "robofriends",
-  "homepage": "https://Victorloma.github.io/Robofriends",
+  "name": "robofriends-hooks",
+  "homepage": "https://Victorloma.github.io/robofriends-hooks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
